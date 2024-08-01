@@ -1,0 +1,80 @@
+.caixa1{
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    gap: 7rem;
+    padding-left: 200px;
+    
+   
+}
+.caixa2{
+   
+    display: flex;
+    gap: 10rem;
+    padding-left: 65px;
+    
+    
+}
+.grafico  {
+    height: 650px ;
+    width: 500px ;
+    align-items: center;
+    
+}
+
+.painel{
+    height: 650px ;
+    width: 700px ;
+    
+
+}
+.box1{
+    background-color: #4899e6;
+    border: none;
+    color: white;
+    padding: 15px 55px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+.box2{
+    background-color: #ebb420;
+    border: none;
+    color: white;
+    padding: 15px 55px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.box3{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 15px 55px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 5px solid #0b0c0e;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: #11010e;
+    color: white;
+}
